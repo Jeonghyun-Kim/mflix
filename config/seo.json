@@ -1,0 +1,11 @@
+{
+  "title": "Mflix",
+  "titleTemplate": "",
+  "description": "Kay Kim's netflix clone",
+  "openGraph": {
+    "type": "website",
+    "locale": "en_IE",
+    "url": "https://mflix.kaykim.site/",
+    "site_name": "Mflix - Kay Kim"
+  }
+}
